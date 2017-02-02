@@ -11,21 +11,21 @@
 		<%= content_tag(:div,msg, class: "alert alert-#{name}") %>
 	<% end %>
 
+  <% if user_signed_in?  %>
+    Signed in as <%= current_user.email %>
+    <ul>
+      <li><%= link_to "Submit new link",  new_link_path%></li>
+      <li><%= link_to "Account", edit_user_registration_path %></li>
+      <li> <%= link_to "Sign out", destroy_user_session_path, method: :delete %></li>
+    </ul>
+<% else %>
+    <ul>
+      <li><%=link_to "Sign_up", new_user_registration_path%></li>
+      <li><%= link_to "Sign_in", new_user_session_path%></li>
+    </ul>
+<% end %>
 
 <%= yield %>
-
-<% if user_signed_in?  %>
-  <ul>
-    <li><%= link_to "Submit new link",  new_link_path%></li>
-    <li><%= link_to "Account", edit_user_registration_path %></li>
-    <li> <%= link_to "Sign out", destroy_user_session_path, method: :delete %></li>
-  </ul>
-<% else %>
-  <ul>
-    <li><%=link_to "Sign_up", new_user_registration_path%></li>
-    <li><%= link_to "Sign_in", new_user_session_path%></li>
-  </ul>
-<% end %>
 
 
 </body>
