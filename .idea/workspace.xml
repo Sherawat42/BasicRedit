@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131f62ae-e974-442d-811d-af232b1ebf4d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/5t/5tsEpdTpPjP9tgXBYa57rv-6KnpAhKt1xRU_eosomik.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/6L/6LIPPcXft03ZSJRHZogZaSrnMgneg8hD_q3k3uDaEqk.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/FD/FDYiMWzt8ZCpzq7sHCAuuR19SiWU0DqvrYv8M6wQNEs.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Kc/KcoR2_ZZAPPx5p90zcXMcyQ-mCpkJ12m2spYfXoi-dk.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/M7/M7UdIJsMXc9Y84kWo-8gpKbx7Z_rhKjc9xrj3WDinRo.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Ul/UlRwkZ-LN-tzHazA2KIox7aV_hN0ommifPRnCbwNDHA.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/WH/WHli2EA9vRAYNkk0AMwDyaEJumhzg9SyWyR68PDX2Bc.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Yt/YtcePOQ_6QFMkguVAdOsV-KhALwK9xJvalkbJ5tUGIo.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/ew/ewumpy-z7wKrQrWqTuW8oFSsf8pLIFbk7AkXnrj3n6w.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/gO/gOof9lHVsrGqLV9hTQ2m2q_FfIP6u_rvFGLuJieCMQM.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/h-/h-eX7Ckf8hqNiUFkC50W7byE86eayTO2E3DljmMxNvI.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/ny/nyK6nyXk6xvwatf2OkND3N_HhLXOtihdCB4U4rwAb50.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/main_controller.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main_controller.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/main_controller_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/main_controller_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20170314185345_acts_as_votable_migration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/main_controller_controller_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Nb/Nb0JtcqD6x-3oMZTffcE-CjF7S7cUXtxb2-2sV9udmM.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Nb/Nb0JtcqD6x-3oMZTffcE-CjF7S7cUXtxb2-2sV9udmM.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/j0/j0Och41ROw_pOZAQxN0UHuI7DELsGq66yRGv79J91gM.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/j0/j0Och41ROw_pOZAQxN0UHuI7DELsGq66yRGv79J91gM.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/tX/tXvGpCRWIWKSfxbipSRyhYqUX51XMytuHsfqVKdYjDs.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/tX/tXvGpCRWIWKSfxbipSRyhYqUX51XMytuHsfqVKdYjDs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/BasicRedit.iml" afterPath="$PROJECT_DIR$/.idea/BasicRedit.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/links_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/links_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/link.rb" afterPath="$PROJECT_DIR$/app/models/link.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/links/index.html.erb" afterPath="$PROJECT_DIR$/app/views/links/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/links/show.html.erb" afterPath="$PROJECT_DIR$/app/views/links/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/pids/server.pid" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" />
     </list>
     <ignored path="BasicRedit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,8 +73,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/links/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -226,8 +190,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2559" />
-    <option name="y" value="48" />
+    <option name="x" value="1" />
+    <option name="y" value="-1032" />
     <option name="width" value="1278" />
     <option name="height" value="1031" />
   </component>
@@ -818,12 +782,12 @@
       <workItem from="1486740563589" duration="908000" />
       <workItem from="1486742574813" duration="2264000" />
       <workItem from="1489517902248" duration="4242000" />
-      <workItem from="1489574076879" duration="3077000" />
+      <workItem from="1489574076879" duration="3215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46449000" />
+    <option name="totallyTimeSpent" value="46587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,8 +799,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2559" y="48" width="1278" height="1031" extended-state="4" />
-    <editor active="true" />
+    <frame x="1" y="-1032" width="1278" height="1031" extended-state="4" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24178404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -845,7 +809,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57798165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57798165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1236,8 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/links/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="504">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding />
         </state>
       </provider>
