@@ -45,12 +45,30 @@ class LinksController < ApplicationController
         if @link.update(link_params)
           format.html { redirect_to @link, notice: 'Link was successfully updated.' }
           format.json { render :show, status: :ok, location: @link }
+          redirect_to @link
         else
           format.html { render :edit }
           format.json { render json: @link.errors, status: :unprocessable_entity }
         end
       end
+    else
+      respond_to do |format|
+        format.html { redirect_to links_url, notice: "Invalid attempt to change a link! :P" }
+        format.json { head :no_content }
+      end
     end
+  end
+
+  def upvote
+    @link = Link.find(params[:id])
+    @link.upvote_by current_user
+    redirect_to :back
+  end
+
+  def downvote
+    @link = Link.find(params[:id])
+    @link.downvote_by current_user
+    redirect_to :back
   end
 
   # DELETE /links/1
@@ -61,6 +79,7 @@ class LinksController < ApplicationController
       respond_to do |format|
         format.html { redirect_to links_url, notice: 'Link was successfully destroyed.' }
         format.json { head :no_content }
+        redirect_to root_path
         return
       end
     end
